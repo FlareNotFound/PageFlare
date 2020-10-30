@@ -1,0 +1,13 @@
+{
+    "name": "PageFlare Telegram interface ",
+    "description": "How the PageFlare Server interfaces with Telegram",
+    "version": "i dont fucking know. im not a good software dev",
+    "maintainers": [
+      {
+        "name": "Flare",
+        "email": "",
+        "web": "https://github.com/FlareNotFound"
+      }
+    ],
+    "homepage": " "
+  }
